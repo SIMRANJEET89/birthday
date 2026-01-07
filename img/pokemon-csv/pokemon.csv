@@ -1,0 +1,11 @@
+name,type1,type2,is_legendary,speed,attack,defense,hp
+Pikachu,Electric,,0,90,55,40,35
+Bulbasaur,Grass,Poison,0,45,49,49,45
+Charizard,Fire,Flying,0,100,84,78,78
+Mewtwo,Psychic,,1,130,110,90,106
+Lugia,Psychic,Flying,1,110,90,130,106
+Gengar,Ghost,Poison,0,110,65,60,60
+Dragonite,Dragon,Flying,0,80,134,95,91
+Arceus,Normal,,1,120,120,120,120
+Snorlax,Normal,,0,30,110,65,160
+Eevee,Normal,,0,55,55,50,55
